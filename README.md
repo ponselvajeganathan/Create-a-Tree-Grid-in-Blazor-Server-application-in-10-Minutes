@@ -2,10 +2,6 @@
 
 This sample demonstrates the Syncfusion [Blazor TreeGrid](https://www.syncfusion.com/blazor-components/blazor-tree-grid) component in a Blazor Server application. The application displays hierarchical parent-child records in a tree-structured grid and shows how to organize and visualize related data efficiently. The sample also demonstrates expand and collapse functionality together with common data operations such as paging, sorting, and filtering. It serves as a quick-start reference for developers who want to implement hierarchical data presentation using the Syncfusion TreeGrid component in Blazor Server.
 
-Documentation: https://help.syncfusion.com/grid-sdk/blazor/tree-grid/getting-started
-
-Online example: https://blazor.syncfusion.com/demos/tree-grid/default-functionalities
-
 ## Key Features
 
 - Displays hierarchical data using the Syncfusion TreeGrid component.
